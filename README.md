@@ -1,6 +1,6 @@
 # Arxiv-priortizer
 
-The goal of this project is to send me an email/notification of the most relevant arXiv postings to me each week, to ensure that I don't miss anything.
+A mostly vibe coded project to notify me about the most relevant arXiv postings on my work Mattermost every week to ensure that I don't miss things.
 
 ## Process:
 
